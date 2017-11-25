@@ -23,4 +23,5 @@ Das Skript gibt es seit dem 25. November 2017 und weist noch viele Bugs auf, dar
 # Versionen
 
 1.0: Erste Version des Skripts
+
 1.0.1: Bug-Fix #1: .csv-Export und anschließendes Umwandeln in Spalten führte zu einer Datenfehldarstellung. Das ist nun behoben. 
