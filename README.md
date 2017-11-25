@@ -18,4 +18,4 @@ Bsp: python gsc-statistics.py 'example.com' '2017-10-01' '2017-10-31'
 
 Dieses Skript speichert nach Ausführung eine csv-Datei im Verzeichnis, in dem sich das Skript befindet, mit dem Namen stats-YYYY-MM-DD.csv. Es enthält für die vier großen Sammel-KPIs (Klicks, Impressionen, CTR, Position) eine Übersicht der wichtigsten Kennzahlen der Statistik und eignen sich hervorragend für die Integration in ein SEO-Wochenreport, bspw. 
 
-Das Skript gibt es seit dem 25. November 2017 und weißt noch viele Bugs auf, darunter die fehlende Modus-Angabe. Ich hoffe, dass ich zeitnahe die letzten Misszustände beheben kann. Stay tuned! 
+Das Skript gibt es seit dem 25. November 2017 und weist noch viele Bugs auf, darunter die fehlende Modus-Angabe. Ich hoffe, dass ich zeitnahe die letzten Misszustände beheben kann. Stay tuned! 
