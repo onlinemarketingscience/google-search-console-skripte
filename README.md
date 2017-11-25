@@ -2,6 +2,8 @@
 
 Die Google Search Console bietet eine Vielzahl an Daten, die durch Anwendung von Filtern zu wertvollen Informationen bei der Webanalyse werden können. Die Skripte sind im Kern nichts Weiteres als modifizierte API Requests, die als Python-Skript sehr simpel über den eigenen Computer gestartet werden können. 
 
+Weitere Informationen zur Installation und Ausführung von Skripten findest du hier auf https://onlinemarketingscience.com. 
+
 # Wozu überhaupt die API nutzen?
 
 1) Einrichten eines eigenen Data Warehouses
