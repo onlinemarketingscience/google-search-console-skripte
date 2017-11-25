@@ -117,8 +117,8 @@ def quick_math(array):
   variance = statistics.variance(array)
   array_stats.append(variance)
  
-  f.write(str(mean) + "," + str(h_mean) + "," + str(median) + "," + str(median_low) + "," + str(median_high) + "," + 
-  str(pstdev) + "," + str(pvariance) + "," + str(stdev) + "," + str(variance) + "\n")
+f.write('"""' + str(mean).replace(".",",") + '"","' + str(h_mean).replace(".",",") + '","' + str(median).replace(".",",") + '","' + str(median_low).replace(".",",") + '","' + str(median_high).replace(".",",") + '","' + 
+  str(pstdev).replace(".",",") + '","' + str(pvariance).replace(".",",") + '","' + str(stdev).replace(".",",") + '","' + str(variance).replace(".",",") + '"\n')
 
 
 # If-Abfrage zur Ausführung des Skripts
