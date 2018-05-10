@@ -117,7 +117,7 @@ def quick_math(array):
   variance = statistics.variance(array)
   array_stats.append(variance)
  
-f.write('"""' + str(mean).replace(".",",") + '"","' + str(h_mean).replace(".",",") + '","' + str(median).replace(".",",") + '","' + str(median_low).replace(".",",") + '","' + str(median_high).replace(".",",") + '","' + 
+  f.write('"""' + str(mean).replace(".",",") + '"","' + str(h_mean).replace(".",",") + '","' + str(median).replace(".",",") + '","' + str(median_low).replace(".",",") + '","' + str(median_high).replace(".",",") + '","' + 
   str(pstdev).replace(".",",") + '","' + str(pvariance).replace(".",",") + '","' + str(stdev).replace(".",",") + '","' + str(variance).replace(".",",") + '"\n')
 
 
